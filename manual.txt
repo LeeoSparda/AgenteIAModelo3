@@ -1,0 +1,21 @@
+✅ 🔧 Solução rápida
+
+Execute este comando no terminal:
+
+pip install langchain langchain-community langchain-core pypdf faiss-cpu docx2txt
+
+
+💡 Dica: se você usa o Ollama, é interessante garantir também a instalação de dependências relacionadas:
+
+pip install ollama langchain-ollama
+
+⚙️ Depois disso
+
+Verifique se o Python correto está sendo usado:
+
+python --version
+
+
+e teste rodando novamente o seu script:
+
+python llamaV2.py
